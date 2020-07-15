@@ -1,0 +1,3 @@
+pre-ip-max-accounts-count: 2
+max-password-length: 32
+password-wrong-kick: true

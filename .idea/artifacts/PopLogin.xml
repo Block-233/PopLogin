@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PopLogin">
+    <output-path>$PROJECT_DIR$/../../测试服务器/sp1.16.1/plugins</output-path>
+    <root id="archive" name="PopLogin.jar">
+      <element id="module-output" name="PopLogin" />
+    </root>
+  </artifact>
+</component>

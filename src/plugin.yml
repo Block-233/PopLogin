@@ -1,0 +1,24 @@
+name: PopLogin
+author: Gerry
+main: me.gerry.poplogin.Main
+version: Indev1.0.0
+description: A very simple login plugin.
+depend:
+  - GerryLibrary
+commands:
+  poplogin:
+    description: Plugin Main Command
+    usage: /poplogin <args>
+    permission: poplogin.cmd.main
+  login:
+    description: Login command
+    usage: /login <password>
+  register:
+    description: Register commands
+    usage: /register <password> <password>
+  unlogin:
+    description: Unlogin command
+    usage: /unlogin
+  loginstate:
+    description: Loginstate Command
+    usage: /loginstate
